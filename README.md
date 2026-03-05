@@ -81,7 +81,10 @@ npm install @omnipact/sdk
 
 Full documentation: docs.omnipact.io
 
+---
+
 ## 📖 Roadmap
+
 Q2 2025: Testnet launch, core escrow contracts audited
 
 Q3 2025: Mainnet launch (EVM‑compatible chains)
