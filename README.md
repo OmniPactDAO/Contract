@@ -1,5 +1,5 @@
 # OmniPact: Decentralized Escrow Protocol for Any Asset
-**OmniPact** (formerly OmniTrust Protocol / OTT) is a decentralized escrow protocol built on Web3, designed to become the world's first trust infrastructure supporting **Web4.0 all asset classes**—RWA, digital assets, services, logistics, and even AI agent interactions. By leveraging smart contracts as an "on-chain guarantor," OmniPact eliminates reliance on centralized platforms, providing a secure, transparent, and low‑cost underlying network for peer‑to‑peer transactions of any kind.
+**OmniPact** (formerly OmniTrust Protocol / OTT) is a decentralized escrow protocol built on Web3/Web4.0, designed to become the world's first trust infrastructure supporting **Web4.0 all asset classes**—RWA, digital assets, services, logistics, and even AI agent interactions. By leveraging smart contracts as an "on-chain guarantor," OmniPact eliminates reliance on centralized platforms, providing a secure, transparent, and low‑cost underlying network for peer‑to‑peer transactions of any kind.
 
 ---
 
@@ -72,16 +72,9 @@ The native token **PACT** fuels the OmniPact network. Participants can earn in s
 
 ---
 
-## 🚀 Quick Start (Developers)
+# OmniPact
 
-Integrate OmniPact into your dApp or marketplace easily via our SDK:
-
-```bash
-npm install @omnipact/sdk
-
-Full documentation: docs.omnipact.io
-
-
+**OmniPact** is a decentralized trust layer for the internet, enabling secure, transparent, and borderless transactions without intermediaries. By integrating with major Layer2 networks, RWA, and AI agents, OmniPact provides a robust arbitration and escrow infrastructure for the next generation of digital commerce.
 
 ---
 
@@ -96,12 +89,25 @@ Full documentation: docs.omnipact.io
 
 ## 🤝 Community & Contributions
 
-- Website: [omnipact.io](https://www.omnipact.io)
-- X(Twitter): [@OmniPact](https://twitter.com/OmniPact)
-- Discord: [Join the discussion]((https://discord.com/invite/NgG4hUxqAG))
-- GitHub: Issues and PRs welcome—help us build the trust layer for the internet.
+- **Website**: [omnipact.io](https://www.omnipact.io)
+- **X (Twitter)**: [@OmniPact](https://twitter.com/OmniPact)
+- **Discord**: [Join the discussion](https://discord.com/invite/NgG4hUxqAG)
+- **GitHub**: Issues and PRs welcome — help us build the trust layer for the internet.
 
 ---
 
 **OmniPact — Trust without intermediaries, trading without borders.**
-```
+
+---
+
+## 🚀 Quick Start (Developers)
+
+Integrate OmniPact into your dApp or marketplace easily via our SDK:
+
+```bash
+npm install @omnipact/sdk
+
+Full documentation: docs.omnipact.io
+
+---
+
