@@ -81,7 +81,7 @@ npm install @omnipact/sdk
 
 Full documentation: docs.omnipact.io
 
-📖 Roadmap
+## 📖 Roadmap
 Q2 2025: Testnet launch, core escrow contracts audited
 
 Q3 2025: Mainnet launch (EVM‑compatible chains)
@@ -90,7 +90,7 @@ Q4 2025: Integration with Solana and major Layer2s; decentralized arbitration mo
 
 2026: Device Binding hardware standard released; expansion into RWA and AI agent transaction scenarios
 
-🤝 Community & Contributions
+##🤝 Community & Contributions
 Website: omnipact.io
 
 X(Twitter): [@OmniPact](https://x.com/OmniPactDAO)
