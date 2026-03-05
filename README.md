@@ -81,25 +81,27 @@ npm install @omnipact/sdk
 
 Full documentation: docs.omnipact.io
 
+
+
 ---
 
 ## 📖 Roadmap
 
-Q2 2025: Testnet launch, core escrow contracts audited
+- **2024**: Completed the construction of the OmniPact architecture
+- **Q2 2025**: Complete the technical architecture integration
+- **Q3 2025**: Integration with major Layer2s; decentralized arbitration module live
+- **Q1 2026**: Testnet launch, core escrow contracts audited; expansion into RWA and AI agent transaction scenarios
 
-Q3 2025: Mainnet launch (EVM‑compatible chains)
+---
 
-Q4 2025: Integration with Solana and major Layer2s; decentralized arbitration module live
+## 🤝 Community & Contributions
 
-2026: Device Binding hardware standard released; expansion into RWA and AI agent transaction scenarios
+- Website: [omnipact.io](https://www.omnipact.io)
+- X(Twitter): [@OmniPact](https://twitter.com/OmniPact)
+- Discord: [Join the discussion]((https://discord.com/invite/NgG4hUxqAG))
+- GitHub: Issues and PRs welcome—help us build the trust layer for the internet.
 
-##🤝 Community & Contributions
-Website: omnipact.io
+---
 
-X(Twitter): [@OmniPact](https://x.com/OmniPactDAO)
-
-Discord: [Join the discussion](https://discord.com/invite/NgG4hUxqAG)
-
-GitHub: Issues and PRs welcome—help us build the trust layer for the internet.
-
-OmniPact — Trust without intermediaries, trading without borders.
+**OmniPact — Trust without intermediaries, trading without borders.**
+```
