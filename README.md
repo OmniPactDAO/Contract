@@ -90,7 +90,7 @@ The native token **PACT** fuels the OmniPact network. Participants can earn in s
 ## 🤝 Community & Contributions
 
 - **Website**: [omnipact.io](https://www.omnipact.io)
-- **X (Twitter)**: [@OmniPact](https://twitter.com/OmniPact)
+- **X (Twitter)**: [@OmniPact](https://twitter.com/OmniPactDao)
 - **Discord**: [Join the discussion](https://discord.com/invite/NgG4hUxqAG)
 - **GitHub**: Issues and PRs welcome — help us build the trust layer for the internet.
 
