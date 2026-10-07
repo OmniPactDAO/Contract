@@ -87,6 +87,17 @@ The native token **PACT** fuels the OmniPact network. Participants can earn in s
 
 ---
 
+## 🛡️ Security
+
+We take the security of our protocol and user funds seriously. If you have discovered a security vulnerability, please do not report it via public issues.
+
+- **Security Email**: [security@omnipact.io](mailto:security@omnipact.io)
+- **Bug Bounty**: For details on our bounty program and scope, please visit [docs.omnipact.io/security](https://docs.omnipact.io/security)
+
+We aim to acknowledge all security-related inquiries within 24-48 hours.
+
+---
+
 ## 🤝 Community & Contributions
 
 - **Website**: [omnipact.io](https://www.omnipact.io)
@@ -103,11 +114,3 @@ The native token **PACT** fuels the OmniPact network. Participants can earn in s
 ## 🚀 Quick Start (Developers)
 
 Integrate OmniPact into your dApp or marketplace easily via our SDK:
-
-```bash
-npm install @omnipact/sdk
-
-Full documentation: docs.omnipact.io
-
----
-
